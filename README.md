@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Expanding my Data Analisis Knowledge https://github.com/jake-linn/PortfolioProjects
+- 🔭 I’m currently working on ... Expanding Data Analytics https://github.com/jake-linn/PortfolioProjects
 - 🌱 I’m currently learning ... Pandas Libary in Python 
 - 👯 I’m looking to collaborate on ... SQL
 - 🤔 I’m looking for help with ... Data Visualization tools
