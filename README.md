@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on ... Scribble Stadium https://github.com/BloomTech-Labs/scribble-stadium-fe.git 
-- 🌱 I’m currently learning ... Next.js 
-- 👯 I’m looking to collaborate on ... Next.js
-- 🤔 I’m looking for help with ... Redux.js
+- 🔭 I’m currently working on ... Expanding my Data Analisis Knowledge https://github.com/jake-linn/PortfolioProjects
+- 🌱 I’m currently learning ... Pandas Libary in Python 
+- 👯 I’m looking to collaborate on ... SQL
+- 🤔 I’m looking for help with ... Data Visualization tools
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...https://www.linkedin.com/in/jake-linn-a1116a11a/ 
 - 😄 Pronouns: ... He/Him
